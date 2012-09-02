@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="The3Mus.XProjectTimeTracker">
+</Property><Property Name="Solution File" Value="D:\3Mus\XProject\The3Mus.XProjectTimeTracker\The3Mus.XProjectTimeTracker.sln">
+</Property><Property Name="Date" Value="lundi 16 juillet 2012">
+</Property><Property Name="Time" Value="23:28">
+</Property></Properties><Event ErrorLevel="0" Project="The3Mus.XProjectTimeTracker" Source="The3Mus.XProjectTimeTracker\The3Mus.XProjectTimeTracker.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="The3Mus.XProjectTimeTracker" Source="The3Mus.XProjectTimeTracker\The3Mus.XProjectTimeTracker.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="The3Mus.XProjectTimeTracker.BusinessLayer" Source="The3Mus.XProjectTimeTracker.BusinessLayer\The3Mus.XProjectTimeTracker.BusinessLayer.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="The3Mus.XProjectTimeTracker.BusinessLayer" Source="The3Mus.XProjectTimeTracker.BusinessLayer\The3Mus.XProjectTimeTracker.BusinessLayer.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="The3Mus.XProjectTimeTracker.DataLayer" Source="The3Mus.XProjectTimeTracker.DataLayer\The3Mus.XProjectTimeTracker.DataLayer.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="The3Mus.XProjectTimeTracker.DataLayer" Source="The3Mus.XProjectTimeTracker.DataLayer\The3Mus.XProjectTimeTracker.DataLayer.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="The3Mus.XProjectTimeTracker.ServiceLayer" Source="The3Mus.XProjectTimeTracker.ServiceLayer\The3Mus.XProjectTimeTracker.ServiceLayer.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="The3Mus.XProjectTimeTracker.ServiceLayer" Source="The3Mus.XProjectTimeTracker.ServiceLayer\The3Mus.XProjectTimeTracker.ServiceLayer.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="The3Mus.XProjectTimeTracker.Test" Source="The3Mus.XProjectTimeTracker.Test\The3Mus.XProjectTimeTracker.Test.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="The3Mus.XProjectTimeTracker.Test" Source="The3Mus.XProjectTimeTracker.Test\The3Mus.XProjectTimeTracker.Test.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="The3Mus.XProjectTimeTracker.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="The3Mus.XProjectTimeTracker.sln" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="The3Mus.XProjectTimeTracker.Test" Source="The3Mus.XProjectTimeTracker.Test\The3Mus.XProjectTimeTracker.Test.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

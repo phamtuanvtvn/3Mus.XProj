@@ -1,0 +1,4 @@
+D:\3Mus\XProject\The3Mus.XProjectTimeTracker\The3Mus.XProjectTimeTracker.DataLayer\bin\Debug\The3Mus.XProjectTimeTracker.DataLayer.dll
+D:\3Mus\XProject\The3Mus.XProjectTimeTracker\The3Mus.XProjectTimeTracker.DataLayer\bin\Debug\The3Mus.XProjectTimeTracker.DataLayer.pdb
+D:\3Mus\XProject\The3Mus.XProjectTimeTracker\The3Mus.XProjectTimeTracker.DataLayer\obj\Debug\The3Mus.XProjectTimeTracker.DataLayer.dll
+D:\3Mus\XProject\The3Mus.XProjectTimeTracker\The3Mus.XProjectTimeTracker.DataLayer\obj\Debug\The3Mus.XProjectTimeTracker.DataLayer.pdb

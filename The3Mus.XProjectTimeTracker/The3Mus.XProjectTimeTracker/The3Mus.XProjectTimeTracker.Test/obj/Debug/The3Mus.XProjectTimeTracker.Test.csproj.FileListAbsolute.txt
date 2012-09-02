@@ -1,0 +1,13 @@
+D:\3Mus\XProject\The3Mus.XProjectTimeTracker\The3Mus.XProjectTimeTracker.Test\bin\Debug\The3Mus.XProjectTimeTracker.Test.dll
+D:\3Mus\XProject\The3Mus.XProjectTimeTracker\The3Mus.XProjectTimeTracker.Test\bin\Debug\The3Mus.XProjectTimeTracker.Test.pdb
+D:\3Mus\XProject\The3Mus.XProjectTimeTracker\The3Mus.XProjectTimeTracker.Test\bin\Debug\The3Mus.XProjectTimeTracker.BusinessLayer.dll
+D:\3Mus\XProject\The3Mus.XProjectTimeTracker\The3Mus.XProjectTimeTracker.Test\bin\Debug\The3Mus.XProjectTimeTracker.DataLayer.dll
+D:\3Mus\XProject\The3Mus.XProjectTimeTracker\The3Mus.XProjectTimeTracker.Test\bin\Debug\The3Mus.XProjectTimeTracker.ServiceLayer.dll
+D:\3Mus\XProject\The3Mus.XProjectTimeTracker\The3Mus.XProjectTimeTracker.Test\bin\Debug\The3Mus.XProjectTimeTracker.BusinessLayer.pdb
+D:\3Mus\XProject\The3Mus.XProjectTimeTracker\The3Mus.XProjectTimeTracker.Test\bin\Debug\The3Mus.XProjectTimeTracker.DataLayer.pdb
+D:\3Mus\XProject\The3Mus.XProjectTimeTracker\The3Mus.XProjectTimeTracker.Test\bin\Debug\The3Mus.XProjectTimeTracker.ServiceLayer.pdb
+D:\3Mus\XProject\The3Mus.XProjectTimeTracker\The3Mus.XProjectTimeTracker.Test\obj\Debug\The3Mus.XProjectTimeTracker.Test.csprojResolveAssemblyReference.cache
+D:\3Mus\XProject\The3Mus.XProjectTimeTracker\The3Mus.XProjectTimeTracker.Test\obj\Debug\The3Mus.XProjectTimeTracker.Test.dll
+D:\3Mus\XProject\The3Mus.XProjectTimeTracker\The3Mus.XProjectTimeTracker.Test\obj\Debug\The3Mus.XProjectTimeTracker.Test.pdb
+D:\3Mus\XProject\The3Mus.XProjectTimeTracker\The3Mus.XProjectTimeTracker.Test\bin\Debug\The3Mus.XProjectTimeTracker.exe
+D:\3Mus\XProject\The3Mus.XProjectTimeTracker\The3Mus.XProjectTimeTracker.Test\bin\Debug\The3Mus.XProjectTimeTracker.pdb

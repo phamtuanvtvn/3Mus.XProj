@@ -1,0 +1,22 @@
+﻿<ResourceDictionary
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+	<!-- Les entrées du dictionnaire de ressources sont définies ici. -->
+	<!-- Classic Label -->
+	<Style TargetType="Label">
+		<Setter Property="FontFamily" Value="Segoe UI" />
+		<Setter Property="Foreground" Value="SteelBlue" />
+	</Style>
+	<!-- Error Label -->
+	<Style TargetType="Label" x:Key="ErrorLabel"
+	BasedOn="{StaticResource {x:Type Label}}">
+		<Setter Property="Foreground" Value="Red" />
+		<Setter Property="FontWeight" Value="Bold" />
+	</Style>
+	<!-- Label for a Control -->
+	<Style TargetType="Label" x:Key="ControlLabel"
+	BasedOn="{StaticResource {x:Type Label}}">
+		<Setter Property="Foreground" Value="Black" />
+		<Setter Property="FontWeight" Value="Bold" />
+	</Style>
+</ResourceDictionary>

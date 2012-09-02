@@ -1,0 +1,5 @@
+D:\3Mus\XProject\The3Mus.XProjectTimeTracker\The3Mus.XProjectTimeTracker.BusinessLayer\bin\Debug\The3Mus.XProjectTimeTracker.BusinessLayer.dll
+D:\3Mus\XProject\The3Mus.XProjectTimeTracker\The3Mus.XProjectTimeTracker.BusinessLayer\bin\Debug\The3Mus.XProjectTimeTracker.BusinessLayer.pdb
+D:\3Mus\XProject\The3Mus.XProjectTimeTracker\The3Mus.XProjectTimeTracker.BusinessLayer\obj\Debug\The3Mus.XProjectTimeTracker.BusinessLayer.dll
+D:\3Mus\XProject\The3Mus.XProjectTimeTracker\The3Mus.XProjectTimeTracker.BusinessLayer\obj\Debug\The3Mus.XProjectTimeTracker.BusinessLayer.pdb
+D:\3Mus\XProject\The3Mus.XProjectTimeTracker\The3Mus.XProjectTimeTracker.BusinessLayer\obj\Debug\The3Mus.XProjectTimeTracker.BusinessLayer.csprojResolveAssemblyReference.cache
